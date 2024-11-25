@@ -13,7 +13,7 @@ def leer_datos_excel(ruta):
 
 def main():
     # Ruta del archivo Excel
-    ruta = "C:/Users/Osmar/Desktop/Facu/Semestre 2024 agost/IO/PIA/proyecto_pintado/Excel/problema5.xlsx"
+    ruta = "./Excel/problema5.xlsx"
     
     # Leer los datos
     datos = leer_datos_excel(ruta)
